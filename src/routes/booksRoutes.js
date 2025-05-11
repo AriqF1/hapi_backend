@@ -1,4 +1,3 @@
-// booksRoutes.js
 const { nanoid } = require("nanoid");
 
 const books = [];
