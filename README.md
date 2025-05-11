@@ -19,8 +19,8 @@ This is a simple **Bookshelf RESTful API** built using [Hapi.js](https://hapi.de
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/bookshelf-api.git
-   cd bookshelf-api
+   git clone https://github.com/your-username/hapi_backend.git
+   cd hapi_backend
    ```
 
 2. **Install dependencies**
