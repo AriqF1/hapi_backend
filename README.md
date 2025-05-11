@@ -84,7 +84,7 @@ GET /books?name=node&reading=1&finished=0
 
 ## 👨‍💻 Author
 
-Developed by [Your Name] — a passionate backend developer learning RESTful APIs and Hapi.js.
+Developed by Ariq Farhan Althaf — a passionate backend developer learning RESTful APIs and Hapi.js.
 
 ## 📄 License
 
